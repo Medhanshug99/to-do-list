@@ -18,7 +18,7 @@ A simple and intuitive **To Do List** application that helps you manage daily ta
 
 Check out the live version of the app here:
 
-**Live Preview:** [To Do List on Netlify]--(https://to-do-list-27.netlify.app/)
+**Live Preview:** https://to-do-list-27.netlify.app/
 
 ---
 
