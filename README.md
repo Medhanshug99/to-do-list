@@ -18,15 +18,15 @@ A simple and intuitive **To Do List** application that helps you manage daily ta
 
 Check out the live version of the app here:
 
-**Live Preview:** https://to-do-list-27.netlify.app/
+**Live Preview:** (https://to-do-list-9.vercel.app/)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **HTML5** for structure.
-- **CSS3** for styling and layout.
-- **JavaScript** (or a framework like **React/Vue**) for app logic and interactivity.
+- **HTML5** 
+- **CSS3** 
+- **JavaScript**
 
 ---
 
